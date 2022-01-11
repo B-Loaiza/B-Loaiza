@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brian Loaiza
+- 👋 Hi, I’m Brian Loaiza.
 - 👀 I’m a frontend developer. 
 - 🌱 I’m interested in creating emmersive web experiences through 3d development and graphics. 
 - 💞️ I’m looking to collaborate on website and mobile app projects. 
