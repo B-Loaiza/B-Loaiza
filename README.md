@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Brian Loaiza, a frontend developer and military veteran.
-- 👀 I’m interested in creating immersive web experiences through 3d development and graphics. 
-- 🌱 I'm currently learning the fundamentals of react.js and react native. 
-- 💞️ I’m looking to collaborate on website and mobile app projects.
+- 👋 Hi, I’m Brian Loaiza, an AWS developer in the AI/ML team.
+- 👀 I’m interested in new emerging technology and love learning more about AI tooling. 
+- 🌱 I'm currently learning the fundamentals of agentic AI capabilities. 
+- 💞️ I’m looking to collaborate on SaaS projects!
 - 📫 Reach me at: brian.s.loaiza@outlook.com!
 
 <!---
